@@ -1,0 +1,20 @@
+body{
+    background-color: #006600;
+}
+.tekstas
+{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1.pavadinimas
+{
+    color: brown;
+    text-align: center;
+}
+#vardas
+{
+    background-color: goldenrod;
+}
+.imagess{
+    width: 250px;
+}

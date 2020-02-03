@@ -1,0 +1,28 @@
+body{
+    background-color: #6699ff;
+}
+h1.antraštė{
+  text-align: center;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+table, th, td {
+              border: 1px solid white;
+              text-align: center;
+              color: white;
+}
+table{
+     width:100%;
+     height: 40%;
+}
+.pv{
+    width: 200px;
+}
+a{
+ text-decoration: none;
+ color: white;
+}
+#vardas{
+       color: white;
+       background-color: #001133;
+}
