@@ -1,0 +1,48 @@
+body{
+    background-color: slategrey;
+}
+.pirmas{
+    background-color: gainsboro;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20 px;
+    width: 400;
+    display: inline-block;
+}
+.pv{
+    background-color: white;
+    width: 300;
+    margin: auto;
+    margin-left: 20;
+    margin-top: 18;
+    display: inline-block;
+}
+img{
+    width: 280 px;
+}
+.trecias{
+    width: 800;
+    background-color: white;
+    margin: auto;
+}
+.nrd{
+    text-decoration: none;
+    text-align: right;
+    color: black
+}
+table{
+    width: 100%;
+}
+.npv{
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+h3{
+    color: white;
+}
+.cob{
+    color: white;
+}
